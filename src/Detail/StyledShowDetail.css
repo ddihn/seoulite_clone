@@ -1,0 +1,161 @@
+/* default set */
+body {
+  background-color: #1e1e1e;
+  line-height: 1.5;
+}
+.container {
+  margin: 0px;
+  color: #c19718;
+}
+.fx {
+  display: flex;
+}
+.font-b {
+  font-family: "pretendard-b";
+}
+.w-10 {
+  width: 10%;
+}
+.ws-10 {
+  width: 10%;
+  position: relative;
+  top: 10px;
+  padding-left: 5px;
+}
+.wc-18 {
+  width: 18%;
+  position: relative;
+  top: 10px;
+}
+
+.w-16 {
+  width: 16%;
+}
+.w-18 {
+  width: 18%;
+}
+.w-20 {
+  width: 20%;
+}
+.w-33 {
+  width: 33%;
+  display: inline-block;
+}
+.ml-2 {
+  margin-left: 2px;
+}
+.mr-15 {
+  margin-right: 8px;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+/* card style */
+.card {
+  background-color: #a11d28;
+  border-radius: 25px;
+  height: auto;
+}
+.card-wrapper {
+  flex: 0.8;
+  padding-left: 15px;
+  margin-top: 60px;
+}
+.explain {
+  flex: 2;
+}
+.card-explain {
+  font-family: "mbc";
+  font-size: 1rem;
+  color: #c19718;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+}
+.explain-top {
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+  border-bottom: 1px #c19718 solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.nation-wp {
+  padding-bottom: 5px;
+}
+.nation {
+}
+.birth {
+  margin-left: 5px;
+  align-items: center;
+  justify-content: center;
+}
+.name {
+  font-size: 1.6rem;
+  flex: 1.5;
+  align-items: center;
+  justify-content: center;
+}
+.birth-info {
+  flex: 2;
+}
+.position,
+.height {
+  margin-right: 4px;
+}
+.bot-m {
+  margin-bottom: 5px;
+}
+.explain-bot {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.cup {
+  margin-right: 8px;
+}
+/* explain info style */
+
+.explain {
+  margin-left: 25px;
+}
+.title {
+  font-family: "mbc-m";
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+.intro {
+  width: 95%;
+  text-align: justify;
+  font-family: "pretendard";
+  font-size: 18px;
+}
+.total-cnt {
+  font-size: 1.4rem;
+  font-family: "mbc-m";
+}
+/* record table style */
+.table {
+  width: 97%;
+}
+.header,
+.year,
+.club {
+  font-family: "pretendard-b";
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.d-header {
+  font-size: 12px;
+  padding-bottom: 5px;
+}
+.header-wp,
+.d-bor {
+  border-bottom: 1px #c19718 solid;
+}
+.p-10 {
+  padding: 10px;
+}
