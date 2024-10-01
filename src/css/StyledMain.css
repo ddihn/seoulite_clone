@@ -1,0 +1,22 @@
+body {
+  background-color: #1e1e1e;
+}
+.playerName {
+  color: #c19718;
+  font-family: "mbc";
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+.players {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-evenly;
+  max-width: 1200px;
+  min-width: 650px;
+}
+.player {
+  width: 1 1 calc(25%-16px);
+  text-align: center;
+}

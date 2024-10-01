@@ -1,0 +1,10 @@
+/* header style */
+.stadium {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 40px;
+  align-items: flex-end;
+  margin-bottom: 40px;
+  position: relative;
+  box-sizing: border-box;
+}

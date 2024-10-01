@@ -1,7 +1,7 @@
 import "./App.css";
-import Detail from "./Detail/Detail";
+import Main from "./pages/Main";
 
 function App() {
-  return <Detail></Detail>;
+  return <Main></Main>;
 }
 export default App;

@@ -47,11 +47,13 @@ body {
 .mr-15 {
   margin-right: 8px;
 }
+
 .center {
   justify-content: center;
   align-items: center;
   text-align: center;
 }
+
 /* card style */
 .card {
   background-color: #a11d28;
@@ -85,8 +87,7 @@ body {
 .nation-wp {
   padding-bottom: 5px;
 }
-.nation {
-}
+
 .birth {
   margin-left: 5px;
   align-items: center;
@@ -139,6 +140,7 @@ body {
 /* record table style */
 .table {
   width: 97%;
+  padding-bottom: 50px;
 }
 .header,
 .year,

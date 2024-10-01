@@ -9,11 +9,13 @@ import kleagueAward from "../assets/images/awards/kleague.svg";
 import best11 from "../assets/images/awards/best11.svg";
 import leagueCup from "../assets/images/awards/leaguecup.svg";
 import seoul from "../assets/images/club/seoul.png";
+import { Stadium } from "./Stadium";
 
 function Detail() {
   return (
     <>
       <div className="container">
+        <Stadium />
         {playerInfo.map((info, index) => {
           return (
             <>
